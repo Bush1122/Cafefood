@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css?family=Trirong&display=swap');
+
+body {
+  font-family: 'Trirong', sans-serif;
+}
+
+.Navbar{
+  background-color: black;
+ 
+}
+.nav-link{
+  color: white;
+  margin-top: 0px;
+}
+.nav-link:hover{
+  background-image: linear-gradient(to right, #e85d6f 100%, transparent 50%);
+  border-bottom: 1px solid white;  
+  color:white;
+  font-weight: bold;
+ 
+}
+.main-session-1{
+  background-color: black;
+}
+
+#blog-dropdown,#reservation-dropdown{
+  color: white;
+}
+.align-left-nav .navbar-nav {
+  margin-left: auto;
+}
+
+.footer-main-session{
+  background-color: black;
+}
+.Link-Tag{
+  text-decoration: none;
+  color: #e85d6f;
+  
+}
+
+.Link-Tag:hover{
+  text-decoration:none;
+  color: #e85d6f;
+  
+}
+@media (max-width: 768px) {
+  h1 {
+    font-size: medium;
+  }
+
+  h2 {
+    font-size: medium;
+  }
+
+  h3 {
+    font-size: medium;
+  }
+
+  h4 {
+    font-size: medium;
+  }
+
+  li {
+    font-size: medium;
+  }
+
+  h5 {
+    font-size: medium;
+  }
+
+  p {
+    font-size: medium;
+  }
+  
+  a{
+    font-size: medium;
+  }
+  .big-button{
+    
+    padding: 10px 12px;
+    font-size: medium;
+  }
+  .display-3{
+    font-size: medium;
+  }
+  .fs-1{
+    font-size: medium;
+
+  }
+  .fs-2{
+    font-size: medium;
+  }
+  .fs-3{
+    font-size: medium;
+  }
+  .fs-4{
+    font-size: medium;
+  }
+
+  .fs-5{
+    font-size: medium;
+  }
+  .btn {
+    font-size: medium;
+    ;
+  }
+
+}
+
+
+@media (max-width: 641px) {
+
+  h1 {
+    font-size: small;
+  }
+
+  h2 {
+    font-size: small;
+  }
+
+  h3 {
+    font-size: small;
+  }
+
+  h4 {
+    font-size: small;
+  }
+
+  li {
+    font-size: small;
+  }
+
+  h5 {
+    font-size: small;
+  }
+
+  p {
+    font-size: small;
+  }
+
+  h6 {
+    font-size: small;
+  }
+
+  a {
+    font-size: small;
+  }
+
+  small {
+    font-size: small;
+  }
+
+  .btn {
+    font-size: small;
+    ;
+  }
+
+
+  .big-button{
+    
+    
+    font-size: small;
+  }
+  .fs-1{
+    font-size: small
+  }
+  .fs-2{
+    font-size: small
+
+  }
+  .fs-3{
+    font-size: small
+
+  }
+  .fs-4{
+    font-size: small
+
+  }
+  .fs-5{
+    font-size: small
+
+  }
+
+
+
+}
+
+@media (max-width: 500px) {
+
+
+  h1 {
+    font-size: x-small;
+  }
+
+  h2 {
+    font-size: x-small;
+  }
+
+  h3 {
+    font-size: x-small;
+  }
+
+  h4 {
+    font-size: x-small;
+  }
+
+  li {
+    font-size: x-small;
+  }
+
+  h5 {
+    font-size: x-small;
+  }
+
+  p {
+    font-size: x-small;
+  }
+
+  h6 {
+    font-size: x-small;
+  }
+
+  a {
+    font-size: x-small;
+  }
+
+  small {
+    font-size: small;
+  }
+
+  
+  .big-button{
+    
+    
+    font-size: x-small;
+  }
+
+  .fs-1{
+    font-size: x-small;
+  }
+
+  .fs-2{
+    font-size: x-small;
+  }
+  .fs-3{
+    font-size: x-small;
+  }
+  .fs-4{
+    font-size: x-small;
+  }
+  .fs-5{
+    font-size: x-small;
+  }
+ 
+  .btn {
+    font-size: x-small;
+    ;
+  }
+
+
+}
+
+
+

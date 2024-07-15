@@ -1,0 +1,25 @@
+.container-card {
+    border: 1px dotted #ccc; 
+    padding: 20px;}
+
+.nav-link:hover{
+    background-color: none;
+
+}
+.gallery-img {
+    animation: moveUpDown 2s ease-in-out alternate infinite; /* Apply the animation to each gallery item */
+  }
+  
+  @keyframes moveUpDown {
+    from {
+      transform: translateY(0); /* Initial vertical position */
+    }
+    to {
+      transform: translateY(20px); /* Vertical position after movement (adjust as needed) */
+    }
+  }
+
+  .container-card-2{
+    border: 2px dotted red; 
+    padding: 20px;}
+  
